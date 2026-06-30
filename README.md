@@ -182,7 +182,3 @@ cd remotecontroller
 - ♻️ Mover `_message` do `MainViewModel` para `private` com encapsulamento adequado (atualmente exposto como `public`)
 
 ---
-
-## 👤 Autor
-
-Desenvolvido por **João Victor** ([@joavlr03](https://github.com/joavlr03)).
